@@ -61,8 +61,6 @@ python nombre_del_archivo.py
 - Funciones
 - Listas y tuplas
 - Diccionarios
-- Programación orientada a objetos
-- Manejo de archivos
 - Y mucho más...
 
 ## 🛠️ Requisitos
@@ -77,6 +75,3 @@ Este repositorio forma parte de mi aprendizaje en Python. Los ejercicios están 
 
 Este proyecto es de código abierto y está disponible para fines educativos.
 
----
-
-⭐ Si este repositorio te ha sido útil, no olvides darle una estrella!
